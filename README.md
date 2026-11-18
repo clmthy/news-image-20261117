@@ -4,10 +4,11 @@
 [![rank](https://make.fun/badge/news-image-20261117/clmthy/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/clmthy/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-One image summing up the world's news of Tuesday 17 November 2026: markets
-fall, an oil tanker attacked in the Strait of Hormuz, Iran–US strikes, the
-Ukraine–Russia bridge war, a cyberattack on 178 major websites, and a
-China–US–Russia summit confirmed for 19 November in Shenzhen.
+One image summing up the world's news of Tuesday 17 November 2026: Ukraine
+hits the Kerch Bridge again, Iran strikes at U.S. radar in Bahrain, Trump
+lands in Manila ahead of the first-ever Trump–Xi–Putin summit, Ebola in DR
+Congo, Israel's Knesset speaker vote, the U.S. losing its measles-elimination
+status, and Wall Street's slide.
 
 ## Run it
 
